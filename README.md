@@ -154,6 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
+Mauricio Miranda - [Github](https://github.com/Dak4rPrO) / [Twitter](https://twitter.com/Dak4rPrO)
+Agustin Gallotti - [Github](https://github.com/AgustinGalloti) / [Twitter](https://twitter.com/AgustinGallotti)
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
