@@ -9,3 +9,19 @@ header .logo {
     left: 20px;
     height: 100%;
 }
+
+header .api_status {
+    float: right;
+    border-radius: 40px;
+    margin: 0;
+    margin-right: 30px;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    background-color: #CCCCCC;
+}
+
+header .available {
+    background-color: #ff545f;
+}
